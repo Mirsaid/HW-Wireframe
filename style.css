@@ -1,0 +1,118 @@
+body{
+    background-color: #777;
+    font: normal 18px Arial, Helvetica, sans-serif;
+    color:grey;
+    
+ 
+    
+}
+.container{
+    margin: auto;
+    width: 80%;
+    height: 80%;
+    overflow: hidden;
+}
+
+.header{
+    /* margin: 1% 15% 1% 15%  ; */
+    padding: 10px;
+    /* border:  10px blue solid; */
+    
+    /* border-radius: 10px; */
+    /* width: 700px; */
+    /* height: 50px; */
+    border: 10px;
+    background-color: white;
+    text-align: center;
+    
+}
+.header p{
+    text-align: center;
+}
+.nav{
+       /* margin: 1% 15% 1% 15%  ; */
+       padding: 10px;
+       /* border:  10px blue solid; */
+       
+       /* border-radius: 10px; */
+       /* width: 700px; */
+       /* height: 50px; */
+       border: 10px;
+       background-color: white;
+       text-align: center;
+       margin-top: 10px;
+    
+}
+.nav p{
+    text-align: center;
+}
+
+.section{
+    float: left;
+    /* width: 200px; */
+    /* margin: auto; */
+    background-color: white;
+    /* margin: 1% 1% 1% 1%  ; */
+    margin-top: 15px;
+    width: 495px;
+    /* overflow: hidden; */
+    height: 250px;
+    text-align: center;
+}
+
+.article{
+background-color: grey;
+color: white;
+padding-top: 5px;
+
+margin: 10px 10px;
+height: 183px;
+overflow: hidden;
+}
+
+
+.article p{
+    background-color: white;
+    width: 450px;
+    height: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+}
+
+.aside{
+    float: right;
+    width: 200px;
+    margin-top: 15px;
+    /* margin-left: 5px; */
+    width: 295px;
+    height: 250px;
+    /* margin: 1% 15% 1% 15%  ; */
+    background-color: white;
+    /* margin: 18px 0px 0px 0px; */
+    
+}
+.aside p{
+    text-align: center;
+
+}
+
+.crl{
+    clear: both;
+}
+
+.footer{
+     /* margin: 1% 15% 1% 15%  ; */
+     padding: 10px;
+     /* border:  10px blue solid; */
+     
+     /* border-radius: 10px; */
+     /* width: 700px; */
+     /* height: 50px; */
+     border: 10px;
+     background-color: white;
+     text-align: center;
+     margin-top: 10px;
+     width: 78%;
+     margin-left: 10%;
+}
